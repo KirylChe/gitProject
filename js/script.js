@@ -1,2 +1,7 @@
-const a = 100;
-const myFuncc = ()=> {};
+
+const b = 'Hi there';
+const myFunc = ()=> {};
+
+
+
+
