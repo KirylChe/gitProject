@@ -1,2 +1,7 @@
-const b = 10;
+
+const b = 'Hi there';
+const myFunc = ()=> {};
+
+
+
 
